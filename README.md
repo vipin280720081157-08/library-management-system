@@ -138,5 +138,4 @@ library-management-system/
 - Add role-based views for librarians vs students
 
 ## Author
-Vipin T K 
-```
+Vipin T K
